@@ -1,1 +1,1 @@
-class notes
+class notes and extra documentation
