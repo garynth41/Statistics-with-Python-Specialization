@@ -1,0 +1,18 @@
+### National Health and Nutrition Examination Survey (NHANES)
+
+The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed to assess the health and nutritional status of adults and children in the United States. The survey is unique in that it combines interviews and physical examinations.
+
+For two-year cycles (e.g., 2015-2016), cross-sectional national samples of individuals living in the United States are invited to participate in both aspects of the data collection. The data produced are widely considered by the research community as among the most important scientific indicators of the health and well-being of the U.S. population.
+
+For this specialization, we will be analyzing data collected from a national sample of individuals during the 2015-2016 cycle.
+
+The NHANES dataset that we will be using can be downloaded from the Resources section in the left column of the course layout.
+
+The Cartwheel Dataset
+A simpler and smaller set of data, the Cartwheel Dataset was collected by our very own course team at the University of Michigan. It includes the following information: age, gender, glasses-wearing or not, height, weight, wingspan (arm length), completion, cartwheel distance, and overall cartwheel score.
+
+The Cartwheel dataset that we will be using can be downloaded from the Resources section in the left column of the course layout.
+
+Seaborn Tips Dataset
+
+The Seaborn package comes with a number of packages that one can use for analysis. One of these pre-loaded datasets is the Tips Dataset which contains data on the meal tipping amounts of various individuals depending on the size of their party, whether they were a smoker or not, their gender, the day of the week, the time of the day, and a variety of other variables. This dataset is provided to demonstrate statistical concepts and is not meant to provide insight into the tipping behavior of any particular group of people.
