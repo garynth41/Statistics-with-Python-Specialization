@@ -8,7 +8,7 @@ In this second week, we will learn about estimating population parameters via co
 
 
 
-Key Concepts
+## Key Concepts
 1. Define a confidence interval
 2. Determine assumptions needed to calculate confidence intervals for their respective population parameter
 3. Calculate confidence intervals by hand for one population proportion, difference in two population proportions, one population mean, one population mean difference for paired data, and difference in population means for independent groups
