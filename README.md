@@ -26,4 +26,4 @@ This specialization is designed to teach learners beginning and intermediate con
 7. Statistical Inference
 8. Statistical Hypothesis Testing
 9. Bayesian Statistics
-10.Statistical Regression
+10. Statistical Regression
