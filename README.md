@@ -17,13 +17,13 @@ This specialization is designed to teach learners beginning and intermediate con
     
     
 ### Python Programming<br>
-*Data Visualization (DataViz)
-*Statistical Model
-*Statistical inference methods
-*Statistics
-*Data Analysis
-*Confidence Interval
-*Statistical Inference
-*Statistical Hypothesis Testing
-*Bayesian Statistics
-*statistical regression
+1. Data Visualization (DataViz)
+2. Statistical Model
+3. Statistical inference methods
+4. Statistics
+5. Data Analysis
+6. Confidence Interval
+7. Statistical Inference
+8. Statistical Hypothesis Testing
+9. Bayesian Statistics
+10.Statistical Regression
