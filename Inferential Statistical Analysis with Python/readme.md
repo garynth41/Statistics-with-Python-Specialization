@@ -1,2 +1,2 @@
-#Inferential Statistical Analysis with Python
+# Inferential Statistical Analysis with Python
 ## by University of Michigan
