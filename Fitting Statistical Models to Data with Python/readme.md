@@ -13,3 +13,4 @@ During these lab-based sessions, learners will work through tutorials focusing o
 2. Python Programming
 3. Statistical Model
 4. Statistical regression
+  
