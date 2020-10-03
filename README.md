@@ -10,10 +10,10 @@ They will be able to utilize data for estimation and assessing theories, constru
 
 ### WHAT I LEARNED:
 
- i. Create and interpret data visualizations using the Python programming language and associated packages & librarie
- ii. Apply and interpret inferential procedures when analyzing real data
- iii. Apply statistical modeling techniques to data (ie. linear and logistic regression, linear models, multilevel models, Bayesian inference techniques
- vi. Understand importance of connecting research questions to data analysis methods.
+ i. Create and interpret data visualizations using the Python programming language and associated packages & librarie<br>
+ ii. Apply and interpret inferential procedures when analyzing real data<br>
+ iii. Apply statistical modeling techniques to data (ie. linear and logistic regression, linear models, multilevel models, Bayesian inference techniques<br>
+ vi. Understand importance of connecting research questions to data analysis methods.<br>
     
     
 ### Python Programming<br>
