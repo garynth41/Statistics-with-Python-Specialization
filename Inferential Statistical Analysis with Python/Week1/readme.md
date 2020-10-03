@@ -11,3 +11,4 @@ On the Python side, we’ll review some high level concepts from the first cours
 2. Explain the framework for making decisions using data along with the potential consequences of those decisions
 3. Identify the basic concepts central to Bayesian and frequentist statistics, which will be used throughout this course
 4. Write basic Python functions and interpret documentation
+ 
