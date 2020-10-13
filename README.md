@@ -1,8 +1,7 @@
 # Statistics-with-Python-Specialization
-Practical and Modern Statistical Training. 
+  Practical and Modern Statistical Training. 
 
 **Using Python and Statistics for statistical visualization, inference and modeling.**
-
 
 This specialization is designed to teach learners beginning and intermediate concepts of statistical analysis using the Python programming language. Learners will learn where data come from, what types of data can be collected, study data design, data management, and how to effectively carry out data exploration and visualization. 
 
@@ -10,12 +9,12 @@ They will be able to utilize data for estimation and assessing theories, constru
 
 ### WHAT I LEARNED:
 
- i. Create and interpret data visualizations using the Python programming language and associated packages & librarie<br>
- ii. Apply and interpret inferential procedures when analyzing real data<br>
- iii. Apply statistical modeling techniques to data (ie. linear and logistic regression, linear models, multilevel models, Bayesian inference techniques<br>
- vi. Understand importance of connecting research questions to data analysis methods.<br>
-    
-    
+* Create and interpret data visualizations using the Python programming language and associated packages & librarie<br>
+* Apply and interpret inferential procedures when analyzing real data<br>
+* Apply statistical modeling techniques to data (ie. linear and logistic regression, linear models, multilevel models, Bayesian inference techniques<br>
+* Understand importance of connecting research questions to data analysis methods.<br>
+  
+   
 ### Python Programming<br>
 1. Data Visualization (DataViz)
 2. Statistical Model
