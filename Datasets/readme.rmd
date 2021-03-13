@@ -16,3 +16,5 @@ The Cartwheel dataset that we will be using can be downloaded from the Resources
 Seaborn Tips Dataset
 
 The Seaborn package comes with a number of packages that one can use for analysis. One of these pre-loaded datasets is the Tips Dataset which contains data on the meal tipping amounts of various individuals depending on the size of their party, whether they were a smoker or not, their gender, the day of the week, the time of the day, and a variety of other variables. This dataset is provided to demonstrate statistical concepts and is not meant to provide insight into the tipping behavior of any particular group of people.
+ 
+ 
